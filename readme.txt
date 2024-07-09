@@ -29,3 +29,4 @@ $ npm un nodemon [지역]
 $ npm un -g gulp [전역]
 
 5. Modules
+1) 코어 모듈: node에서 제공하는 모듈(fs, os, process, http, ...)
